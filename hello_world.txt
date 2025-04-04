@@ -4,3 +4,4 @@ But I know what I'm doing for the moment
 This is for testing purposes
 THis is now for testing commit on VSCode
 Second time testing this out for VSCode
+A new week, a new text
